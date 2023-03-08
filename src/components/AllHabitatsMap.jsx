@@ -1,7 +1,6 @@
-import { useTranslation } from 'next-i18next';
 import mapboxgl from 'mapbox-gl';
 import { all } from 'axios';
-import data from './../public/locales/en/animals.json';
+import data from '../locales/en/animals.json';
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_ACCESS_TOKEN;
 

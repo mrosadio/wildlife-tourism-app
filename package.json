@@ -9,10 +9,14 @@
     "env-cmd": "^10.1.0",
     "i18next": "^22.4.11",
     "json-loader": "^0.5.7",
+    "mapbox-gl": "^2.13.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-i18next": "^9.0.10",
+    "react-map-gl": "^7.0.21",
+    "react-router-dom": "^6.8.2",
     "react-scripts": "5.0.1",
+    "router-dom": "^2.2.10",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
