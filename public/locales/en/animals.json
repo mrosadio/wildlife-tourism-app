@@ -1,0 +1,568 @@
+[
+  {
+    "name": "Blue Whale",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "scientific_name": "Balsenoptera musculus"
+    },
+    "locations": [
+      "Ocean" 
+    ],
+    "characteristics": {
+      "prey": "Krill, Crustaceans, Small Fish",
+      "name_of_young": "Calf",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "Less than 20,000",
+      "biggest_threat": "Climate change",
+      "most_distinctive_feature": "Pleats on neck and two blow-holes",
+      "other_name(s)": "Northern, Southern, Pygmy",
+      "gestation_period": "11 -12 months",
+      "habitat": "Polar and subtropical waters",
+      "predators": "Humans, Killer Whale pods",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Diurnal",
+      "common_name": "Blue Whale",
+      "number_of_species": "3",
+      "location": "Oceans worldwide",
+      "slogan": "The largest animal on Earth",
+      "group": "Mammal",
+      "color": "GreyBlueBlackWhite",
+      "skin_type": "Smooth",
+      "top_speed": "13 mph",
+      "lifespan": "30 - 45 years",
+      "weight": "100tonnes - 160tonnes (220,000lbs - 352,000lbs)",
+      "length": "25m - 30m (82.5ft - 100ft)",
+      "age_of_sexual_maturity": "10- 15 years",
+      "age_of_weaning": "8 months"
+    }
+  },
+  {
+    "name": "Llama",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Camelidae",
+      "genus": "Lama",
+      "scientific_name": "Lama Glama"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Leaves, Grass, Shoots",
+      "habitat": "Mountainous deserts and grasslands",
+      "predators": "Human, Puma, Coyote",
+      "diet": "Herbivore",
+      "average_litter_size": "1",
+      "lifestyle": "Herd",
+      "favorite_food": "Leaves",
+      "type": "Mammal",
+      "slogan": "Natively found in the Andes Mountain range!",
+      "color": "BrownBlackWhiteTan",
+      "skin_type": "Fur",
+      "top_speed": "28 mph",
+      "lifespan": "15-20 years",
+      "weight": "130-204kg (280-450lbs)"
+    }
+  },
+  {
+    "name": "Alpaca",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Camelidae",
+      "genus": "Vicugna",
+      "scientific_name": "Vicugna pacos"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "name_of_young": "Cria",
+      "group_behavior": "Herd",
+      "estimated_population_size": "Least concern",
+      "biggest_threat": "Loss of rangeland",
+      "most_distinctive_feature": "Hypoallergenic fleece",
+      "other_name(s)": "Vicugna",
+      "gestation_period": "242-345 days",
+      "litter_size": "One",
+      "habitat": "Farms, temperate high meadow",
+      "diet": "Herbivore",
+      "favorite_food": "Hay, pasture grass and/or silage",
+      "common_name": "Alpaca",
+      "number_of_species": "1",
+      "location": "Andes Mountains of Peru, Bolivia, Ecuador and Chile",
+      "color": "BrownFawnBlackWhiteTanDark BrownCreamChocolateCaramelBeigeChestnutWhite-BrownBlack-BrownSandyGoldenBlondeLight-Brown",
+      "skin_type": "Fur",
+      "top_speed": "35 mph",
+      "lifespan": "15-20 years",
+      "weight": "48-84 kilograms (106-185 pounds)",
+      "height": "81-99 centimeters (32-39 inches) to withers",
+      "length": "120-225 centimeters (4-7 feet)",
+      "age_of_sexual_maturity": "Females 18 months; males two to three years",
+      "age_of_weaning": "Around six months"
+    }
+  },
+  {
+    "name": "Amazon River Dolphin (Pink Dolphin)",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetacea",
+      "family": "Platanistoidea",
+      "genus": "Platanistidae",
+      "scientific_name": "Platanistoidea"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fish, Prawns, Frogs",
+      "habitat": "Large tropical rivers and estuaries",
+      "predators": "Human",
+      "diet": "Carnivore",
+      "average_litter_size": "1",
+      "lifestyle": "School",
+      "favorite_food": "Fish",
+      "type": "Mammal",
+      "slogan": "Also known as the 'Pink Dolphin'",
+      "color": "GreyPink",
+      "skin_type": "Smooth",
+      "top_speed": "18 mph",
+      "lifespan": "12-18 years",
+      "weight": "100-200kg (220-440lbs)"
+    }
+  },
+  {
+    "name": "Galapagos Tortoise",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Testudines",
+      "family": "Testudinidae",
+      "genus": "Chelonoidis",
+      "scientific_name": "Chelonoidis nigra"
+    },
+    "locations": [
+      "Ocean"
+    ],
+    "characteristics": {
+      "main_prey": "Grass, Fruit, Cactus",
+      "habitat": "Volcanic lowlands and shrub land",
+      "predators": "Human, Hawk, Wild dogs",
+      "diet": "Herbivore",
+      "average_litter_size": "24",
+      "lifestyle": "Solitary",
+      "favorite_food": "Grass",
+      "type": "Reptile",
+      "slogan": "The biggest species of tortoise in the world!",
+      "color": "BrownGrey",
+      "skin_type": "Scales",
+      "top_speed": "0.3 mph",
+      "lifespan": "100-150 years",
+      "weight": "200-300kg (441-661lbs)"
+    }
+  },
+  {
+    "name": "King Vulture",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Cathartidae",
+      "genus": "Sarcoramphus",
+      "scientific_name": "Sarcoramphus papa"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "estimated_population_size": "10,000",
+      "biggest_threat": "Habitat loss",
+      "wingspan": "1.8-2m (70-78in)",
+      "incubation_period": "50-60 days",
+      "habitat": "Forests, savannas, and grasslands",
+      "predators": "Cats and snakes",
+      "diet": "Omnivore",
+      "type": "Bird",
+      "common_name": "King Vulture",
+      "number_of_species": "1",
+      "location": "Central and South America",
+      "average_clutch_size": "1",
+      "nesting_location": "Hollow tree cavities",
+      "age_of_molting": "4-18 months",
+      "color": "GreyYellowRedBlackWhiteOrange",
+      "skin_type": "Feathers"
+    }
+  },
+  {
+    "name": "Poison Dart Frog",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Amphibia",
+      "order": "Anura",
+      "family": "Dendrobatidae"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Insects, Ants, Spiders",
+      "habitat": "Tropical jungle and wet forests",
+      "predators": "Snake",
+      "diet": "Carnivore",
+      "average_litter_size": "10",
+      "lifestyle": "Solitary",
+      "favorite_food": "Insects",
+      "type": "Amphibian",
+      "slogan": "Inhabits the jungles of Central and South America!",
+      "color": "YellowRedBlueGreenOrange",
+      "skin_type": "Permeable",
+      "top_speed": "10 mph",
+      "lifespan": "2-4 years",
+      "weight": "2-7g (0.07-0.25oz)"
+    }
+  },
+  {
+    "name": "Harpy Eagle",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Accipitriformes",
+      "family": "Accipitridae",
+      "genus": "Harpia",
+      "scientific_name": "Harpia harpyja"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "name_of_young": "Chicks or hatchlings",
+      "group_behavior": "Small families",
+      "estimated_population_size": "Unknown",
+      "most_distinctive_feature": "Crown of feathers",
+      "other_name(s)": "American Harpy Eagle",
+      "wingspan": "2m (6.5ft)",
+      "habitat": "Lowland rainforests",
+      "predators": "Other harpy eagles",
+      "diet": "Carnivore",
+      "favorite_food": "Sloths, monkeys, lizards, rodents, small deer, and birds",
+      "common_name": "Harpy Eagle",
+      "location": "Central and South America",
+      "slogan": "Talon's the size of a grizzly bear's claws!",
+      "group": "Birds",
+      "color": "BlackWhite",
+      "skin_type": "Feathers",
+      "top_speed": "50 mph",
+      "lifespan": "25 to 35 years in the wild",
+      "weight": "5kg - 9kg (11lb - 20lbs)",
+      "length": "89cm - 102cm (35in - 40in)",
+      "age_of_sexual_maturity": "4 or 5 years"
+    }
+  },
+  {
+    "name": "Jaguar",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Panthera",
+      "scientific_name": "Panthera onca"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Deer, Capybara, Tapir",
+      "name_of_young": "Cub",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "15,000",
+      "biggest_threat": "Hunting and habitat loss",
+      "most_distinctive_feature": "Beautiful rosetted fur pattern",
+      "gestation_period": "90 - 105 days",
+      "habitat": "Rainforest, swamp and floodplains",
+      "diet": "Carnivore",
+      "average_litter_size": "3",
+      "lifestyle": "Crepuscular",
+      "common_name": "Jaguar",
+      "number_of_species": "1",
+      "location": "Central and South America",
+      "slogan": "The largest feline on the American continent!",
+      "group": "Mammal",
+      "color": "BrownYellowBlackWhiteTan",
+      "skin_type": "Fur",
+      "top_speed": "50 mph",
+      "lifespan": "12 - 15 years",
+      "weight": "36kg - 160kg (79lbs - 350lbs)",
+      "length": "1.1m - 1.9m (43in - 75in)",
+      "age_of_sexual_maturity": "3 - 4 years",
+      "age_of_weaning": "3 months"
+    }
+  },
+  {
+    "name": "Puma",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Felidae",
+      "genus": "Puma",
+      "scientific_name": "Felis concolor"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Rats, Deer, Sheep",
+      "name_of_young": "Cub",
+      "group_behavior": "Solitary",
+      "estimated_population_size": "50,000",
+      "biggest_threat": "Habitat loss",
+      "most_distinctive_feature": "Has a solid-coloured coat of fur",
+      "other_name(s)": "Cougar, Mountain Lion",
+      "gestation_period": "3 months",
+      "habitat": "mountain forest and jungle",
+      "diet": "Carnivore",
+      "average_litter_size": "4",
+      "lifestyle": "Crepuscular",
+      "common_name": "Puma",
+      "number_of_species": "7",
+      "location": "North and South America",
+      "slogan": "Has longer back legs than front legs!",
+      "group": "Mammal",
+      "color": "BrownGreyYellowRed",
+      "skin_type": "Fur",
+      "top_speed": "30 mph",
+      "lifespan": "10 - 15 years",
+      "weight": "67kg - 105kg (148lbs - 231.5lbs)",
+      "height": "1.1m - 2m (43in - 78.7in)",
+      "age_of_sexual_maturity": "2 - 3 years",
+      "age_of_weaning": "2 months"
+    }
+  },
+  {
+    "name": "Caiman",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Reptilia",
+      "order": "Crocodilia",
+      "family": "Alligatoridae",
+      "genus": "Caimaninae",
+      "scientific_name": "Caiman crocodilus, Melanosuchus niger, Caiman yacare, Paleosuchus palpebrosus, Paleosuchus trigonatus, Caiman latirostris"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Fish, crustaceans, waterfowl, capybara",
+      "name_of_young": "Hatchling",
+      "group_behavior": "Social",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Habitat loss and hunting",
+      "most_distinctive_feature": "Eyes and nostrils located on top of the head and snout",
+      "other_name(s)": "Spectacled Caiman, Black Caiman, Yacare Caiman, Cuvier's Dwarf Caiman, Smooth-Fronted Caiman, Broad-Snouted Caiman",
+      "incubation_period": "3 months",
+      "age_of_independence": "1 - 2 years",
+      "habitat": "Rivers, lakes and swampland",
+      "predators": "Jaguars, wild pigs, birds of prey",
+      "diet": "Carnivore",
+      "lifestyle": "Nocturnal",
+      "common_name": "Caiman",
+      "number_of_species": "6",
+      "location": "Central and South America",
+      "slogan": "Can grow to up 6 meters long!",
+      "group": "Reptile",
+      "color": "BrownGreyBlackDull Olive",
+      "skin_type": "Plate-like scales",
+      "top_speed": "25 mph",
+      "lifespan": "20 - 40 years",
+      "weight": "6kg - 300kg (13lbs - 660lbs)",
+      "length": "1.5m - 6m (4.9ft - 19.7ft)",
+      "age_of_sexual_maturity": "4 - 10 years"
+    }
+  },
+  {
+    "name": "Capybara",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Rodentia",
+      "family": "Caviidae",
+      "genus": "Hydrochoerus",
+      "scientific_name": "Hydrochoerus hydrochaeris"
+    },
+    "locations": [
+      "South-America"
+    ],
+    "characteristics": {
+      "prey": "Grasses, Aquatic Plants, Bark",
+      "name_of_young": "Pup",
+      "group_behavior": "Herd",
+      "estimated_population_size": "Stable",
+      "biggest_threat": "Hunting and habitat loss",
+      "most_distinctive_feature": "Eyes, ears and nostrils on top of the head!",
+      "other_name(s)": "Water Hog",
+      "gestation_period": "150 days",
+      "habitat": "Dense vegetation close to freshwater",
+      "predators": "Jaguar, Caiman, Harpy Eagle",
+      "diet": "Herbivore",
+      "average_litter_size": "5",
+      "lifestyle": "Nocturnal/Crepuscular",
+      "common_name": "Capybara",
+      "number_of_species": "2",
+      "location": "Central and South America",
+      "slogan": "Excellent at both diving and swimming",
+      "group": "Mammal",
+      "color": "BrownGreyYellowRed",
+      "skin_type": "Fur",
+      "top_speed": "22 mph",
+      "lifespan": "8 - 10 years",
+      "weight": "30kg - 70kg (66lbs - 154lbs)",
+      "length": "100cm - 130cm (39in - 51in)",
+      "age_of_sexual_maturity": "17 - 19 months",
+      "age_of_weaning": "16 weeks"
+    }
+  },
+  {
+    "name": "Anteater",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Xenarthra",
+      "family": "Myrmecophagidae",
+      "genus": "Tamandua",
+      "scientific_name": "Myrmecophaga Tridactyla"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Ants, Termites, Insects",
+      "distinctive_feature": "Elongated snout and long sticky tongue",
+      "habitat": "Forest and grasslands",
+      "predators": "Puma, Snakes, Jaguar",
+      "diet": "Omnivore",
+      "average_litter_size": "1",
+      "lifestyle": "Solitary",
+      "favorite_food": "Ants",
+      "type": "Mammal",
+      "slogan": "Found throughout the Southern Hemisphere!",
+      "color": "BrownGreyBlackTan",
+      "skin_type": "Fur",
+      "top_speed": "18 mph",
+      "lifespan": "9 - 20 years",
+      "weight": "18kg - 40kg (40lbs - 88lbs)",
+      "length": "0.9m - 2.1m (3ft - 7ft)"
+    }
+  },
+  {
+    "name": "Toucan",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Piciformes",
+      "family": "Ramphastidae",
+      "genus": "Ramphastos"
+    },
+    "locations": [
+      "Central-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "main_prey": "Fruit, Eggs, Insects",
+      "distinctive_feature": "Small body and enormous colourful beak",
+      "wingspan": "43-60 inches",
+      "incubation_period": "17-18 days",
+      "habitat": "Lowland rainforest and tropical forest borders",
+      "predators": "Human, Weasels, Large Birds",
+      "diet": "Omnivore",
+      "lifestyle": "Solitary",
+      "favorite_food": "Fruit",
+      "type": "Bird",
+      "average_clutch_size": "3",
+      "slogan": "There are more than 40 different species!",
+      "nesting_location": "Hollows of trees",
+      "age_of_molting": "1 year",
+      "color": "YellowBlackWhiteOrange",
+      "skin_type": "Feathers",
+      "top_speed": "39 mph",
+      "lifespan": "12 - 20 years",
+      "weight": "130g - 680g (4.6oz - 24oz)",
+      "height": "29cm - 63cm (11.5in - 29in)"
+    }
+  },
+  {
+    "name": "White-tail deer",
+    "taxonomy": {
+      "kingdom": "Animalia",
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Artiodactyla",
+      "family": "Cervidae",
+      "genus": "Odocoileus",
+      "scientific_name": "Odocoileus virginianus"
+    },
+    "locations": [
+      "Central-America",
+      "North-America",
+      "South-America"
+    ],
+    "characteristics": {
+      "name_of_young": "Fawn",
+      "group_behavior": "Herd",
+      "estimated_population_size": "Unknown",
+      "biggest_threat": "Man",
+      "most_distinctive_feature": "White tail",
+      "other_name(s)": "Virginia deer",
+      "gestation_period": "200-207 days",
+      "litter_size": "1",
+      "habitat": "mixture of hardwoods, croplands, brushlands and pasturelands",
+      "predators": "Humans, wolves, mountain lions, bears, jaguars, and coyotes",
+      "diet": "Herbivore",
+      "common_name": "White-tail deer",
+      "number_of_species": "1",
+      "location": "Southern Canada to South America",
+      "group": "Herd",
+      "color": "Brown",
+      "skin_type": "Hair",
+      "top_speed": "30 mph",
+      "lifespan": "72 months",
+      "weight": "40kg-232kg (150lbs-611lbs",
+      "height": "0.33m-1.1m (1.7ft-3.9ft)",
+      "length": "1m-2.2m(3.3ft-7.2ft)",
+      "age_of_sexual_maturity": "12 months",
+      "age_of_weaning": "12 weeks"
+    }
+  }
+]
