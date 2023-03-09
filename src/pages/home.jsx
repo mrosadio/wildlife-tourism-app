@@ -1,5 +1,6 @@
 import React from "react";
 import AllHabitatsMap from "components/AllHabitatsMap";
+
 function Home() {
   return (
     <div>

@@ -1,6 +1,6 @@
+import React from 'react';
 import mapboxgl from 'mapbox-gl';
-import { all } from 'axios';
-import data from '../locales/en/animals.json';
+import data from '../database/animals'
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_ACCESS_TOKEN;
 
@@ -13,7 +13,7 @@ function AllHabitatsMap() {
   });
   
   // Add polygons
-  map.addSource('data', data[0][1].habitats[0].polygon)
+  //map.addSource('data', data[0][1].habitats[0].polygon)
   return (
     <div className='container'>
       <div id='map' />
