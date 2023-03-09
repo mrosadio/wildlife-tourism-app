@@ -1,6 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react';
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home";
+import AllHabitatsMap from 'components/AllHabitatsMap';
 import 'mapbox-gl/dist/mapbox-gl.css';
 import './index.css';
 import './App.css';
@@ -11,11 +11,7 @@ function App() {
       <Routes>
         <Route 
         path="/"
-        element={
-          <div className="home-container">
-            <Home />
-          </div>
-        }
+        element={<AllHabitatsMap />}
         />
       </Routes>
     </div>
