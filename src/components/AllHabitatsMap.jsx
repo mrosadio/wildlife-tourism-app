@@ -10,10 +10,10 @@ for (let animal of data) {
   console.log(animal.habitats)
   for (let habitat of animal.habitats) {
     console.log(habitat.polygon)
-    habitatPolygons.push(habitat.polygon)
+    //habitatPolygons.push(habitat.polygon)
   }
 }
-console.log(habitatPolygons)
+//console.log(habitatPolygons)
 
 function AllHabitatsMap() {
   useEffect(() => {
