@@ -21,8 +21,8 @@ function AllHabitatsMap() {
       const mapAllAnimals = new mapboxgl.Map({
         container: "mapAll",
         style: "mapbox://styles/mapbox/outdoors-v12",
-        center: [-121.403732, 40.492392],
-        zoom: 10,
+        center: [-77.042793, -12.046374],
+        zoom: 3,
       })
       mapAllAnimals.on("load", () => {
         mapAllAnimals.addSource('habitats', {
