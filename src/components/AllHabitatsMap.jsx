@@ -1,19 +1,23 @@
 import React, { useEffect } from "react";
 import mapboxgl from "mapbox-gl";
 import data from "../database/animals";
+import { typeImplementation } from "@testing-library/user-event/dist/type/typeImplementation";
 
 mapboxgl.accessToken = process.env.REACT_APP_MAPBOX_API_ACCESS_TOKEN;
 
 // Retrieve polygons from dataset
+
+// Alternative 1
 let habitatPolygons = [];
-for (let animal of data) {
+for (let animal of (data)) {
   console.log(animal.habitats)
-  for (let habitat of animal.habitats) {
+  console.log(typeof animal.habitats)
+  /*for (let habitat in animal.habitats) {
     console.log(habitat.polygon)
-    //habitatPolygons.push(habitat.polygon)
-  }
+    habitatPolygons.push(habitat.polygon)
+  }*/
 }
-//console.log(habitatPolygons)
+
 
 function AllHabitatsMap() {
   useEffect(() => {
