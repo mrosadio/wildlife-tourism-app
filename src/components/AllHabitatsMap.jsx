@@ -13,10 +13,9 @@ for (let animal of (data)) {
     habitatPolygons.push(habitat.polygon)
   }
 }
-//console.log(habitatPolygons);
-
 
 function AllHabitatsMap() {
+
   useEffect(() => {
     function initializeMap() {
       const mapAllAnimals = new mapboxgl.Map({
@@ -26,23 +25,27 @@ function AllHabitatsMap() {
         zoom: 10,
       })
       mapAllAnimals.on("load", () => {
-        mapAllAnimals.addSource('polygon', {
-          
+        mapAllAnimals.addSource('habitats', {
+          'type': 'geojson',
+          'data': {
+            'type': 'Feature',
+            'geometry': {
+              'type': 'Polygon',
+              'coordinates': habitatPolygons
+            }
+          }
         })
-        
       });
     }
     initializeMap();
   }, []);
 
-  
-  // Add polygons
-  //map.addSource('data', data[0][1].habitats[0].polygon)
   return (
     <div className="container">
       <div id="mapAll" />
     </div>
   );
+
 }
 
 export default AllHabitatsMap;
