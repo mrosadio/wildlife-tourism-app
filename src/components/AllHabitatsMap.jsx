@@ -15,7 +15,9 @@ for (let animal of data) {
 }
 
 function AllHabitatsMap() {
+
   useEffect(() => {
+
     function initializeMap() {
       const mapAllAnimals = new mapboxgl.Map({
         container: "mapAll",
@@ -36,6 +38,7 @@ function AllHabitatsMap() {
         });
       });
       // Add a new layer to visualize the polygon.
+      console.log('hola hola')
       mapAllAnimals.addLayer({
         id: "habitats",
         type: "fill",
@@ -46,7 +49,6 @@ function AllHabitatsMap() {
           "fill-opacity": 0.5
         },
       });
-
     }
     initializeMap();
   }, []);
